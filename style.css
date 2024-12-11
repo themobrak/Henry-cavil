@@ -1,0 +1,32 @@
+img{
+    height: 150px;
+    width: 150px;
+}
+.li{
+    font-weight: normal;
+    
+}
+#sun {
+    color: rgb(10, 10, 230);
+}
+#moon {
+    color: red;
+}
+list {
+    color: rgb(87, 50, 5);
+}
+.li{
+    text-align: center;
+}
+#fun {
+    color: blueviolet;
+}
+#gun {
+    color: rgb(194, 125, 22);
+}
+#ton {
+    color: rgb(35, 35, 155);
+}
+* {
+    background-color: antiquewhite;
+}
